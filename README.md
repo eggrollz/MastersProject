@@ -1,2 +1,2 @@
 # MastersProject
-#moved to: https://github.com/eggrollz/masters-pro
+//moved to: https://github.com/eggrollz/masters-pro
